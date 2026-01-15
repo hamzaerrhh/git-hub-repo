@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 herrabba <you@example.com> 1768470089 +0100	branch: Created from main
+cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 9a74e8c15f56f163ab02acfae4781af8a0614e85 herrabba <you@example.com> 1768470209 +0100	commit: new greet in greet branch
+9a74e8c15f56f163ab02acfae4781af8a0614e85 840e577fe851396b70e5ce9ed462aee7af396728 herrabba <you@example.com> 1768470241 +0100	commit: up hello.sh in greet branch
+840e577fe851396b70e5ce9ed462aee7af396728 d0389cd15ac620238b2a50c30e978bd0b44bd47f herrabba <you@example.com> 1768470267 +0100	commit: up hello.sh in greet branch
+d0389cd15ac620238b2a50c30e978bd0b44bd47f c8d7eeb35982722716da32f27795362cf4f4569c herrabba <you@example.com> 1768470348 +0100	commit (amend): updating Makefile in greet branch
+c8d7eeb35982722716da32f27795362cf4f4569c 6e15178839692d19767e021fc5da9720ffb75132 herrabba <you@example.com> 1768470496 +0100	merge main: Merge made by the 'ort' strategy.
+6e15178839692d19767e021fc5da9720ffb75132 97b34d216cc08135ff6c2228984991c59b3f4834 herrabba <you@example.com> 1768470892 +0100	commit (merge): resolve conflict
+97b34d216cc08135ff6c2228984991c59b3f4834 6e15178839692d19767e021fc5da9720ffb75132 herrabba <you@example.com> 1768471032 +0100	reset: moving to HEAD~1
+6e15178839692d19767e021fc5da9720ffb75132 c8d7eeb35982722716da32f27795362cf4f4569c herrabba <you@example.com> 1768471050 +0100	reset: moving to HEAD~1
+c8d7eeb35982722716da32f27795362cf4f4569c 968936c0d92b7194ffa72741b0bbd798a05c3cd7 herrabba <you@example.com> 1768471921 +0100	rebase (continue) (finish): refs/heads/greet onto 553a83df6b985e24973fd1d9a7ba6b0499d6f9cd

@@ -1,0 +1,37 @@
+0000000000000000000000000000000000000000 3a1d9cd8f5c30241aefdb5142dec62ac7124ca9e herrabba <you@example.com> 1768469550 +0100	commit (initial): init
+3a1d9cd8f5c30241aefdb5142dec62ac7124ca9e af506251f1f3878b2b07063a9d0fefcfdc7e43af herrabba <you@example.com> 1768469592 +0100	commit: edit 3rd line
+af506251f1f3878b2b07063a9d0fefcfdc7e43af 1814a35a3155501b88486eab2c70f6267b4b2740 herrabba <you@example.com> 1768469621 +0100	commit: edit 4rd and 5th line
+1814a35a3155501b88486eab2c70f6267b4b2740 0000000000000000000000000000000000000000 herrabba <you@example.com> 1768469712 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 1814a35a3155501b88486eab2c70f6267b4b2740 herrabba <you@example.com> 1768469712 +0100	Branch: renamed refs/heads/master to refs/heads/main
+1814a35a3155501b88486eab2c70f6267b4b2740 52c40e4dc82f11e2f8dae6d3a88c8de6043079c9 herrabba <you@example.com> 1768469784 +0100	commit: forgot the email
+52c40e4dc82f11e2f8dae6d3a88c8de6043079c9 5edfac7dc59565193865275973c1b1de16ff7fce herrabba <you@example.com> 1768469817 +0100	commit (amend): forgot the email
+5edfac7dc59565193865275973c1b1de16ff7fce a5ca82cfb5e5d74022464bd34844661e82b94a69 herrabba <you@example.com> 1768469903 +0100	commit: mv hello.sh to lib/
+a5ca82cfb5e5d74022464bd34844661e82b94a69 cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 herrabba <you@example.com> 1768469985 +0100	commit: naw Makefile
+cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 herrabba <you@example.com> 1768470128 +0100	checkout: moving from main to greet
+cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 9a74e8c15f56f163ab02acfae4781af8a0614e85 herrabba <you@example.com> 1768470209 +0100	commit: new greet in greet branch
+9a74e8c15f56f163ab02acfae4781af8a0614e85 840e577fe851396b70e5ce9ed462aee7af396728 herrabba <you@example.com> 1768470241 +0100	commit: up hello.sh in greet branch
+840e577fe851396b70e5ce9ed462aee7af396728 d0389cd15ac620238b2a50c30e978bd0b44bd47f herrabba <you@example.com> 1768470267 +0100	commit: up hello.sh in greet branch
+d0389cd15ac620238b2a50c30e978bd0b44bd47f c8d7eeb35982722716da32f27795362cf4f4569c herrabba <you@example.com> 1768470348 +0100	commit (amend): updating Makefile in greet branch
+c8d7eeb35982722716da32f27795362cf4f4569c cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 herrabba <you@example.com> 1768470371 +0100	checkout: moving from greet to main
+cdc96a750bd268fad56fbe6238ebd611c0a2f3a9 1a24a80fec6e2c5653c30f17e0afc59bec6bc262 herrabba <you@example.com> 1768470434 +0100	commit: add readme to main
+1a24a80fec6e2c5653c30f17e0afc59bec6bc262 c8d7eeb35982722716da32f27795362cf4f4569c herrabba <you@example.com> 1768470458 +0100	checkout: moving from main to greet
+c8d7eeb35982722716da32f27795362cf4f4569c 6e15178839692d19767e021fc5da9720ffb75132 herrabba <you@example.com> 1768470496 +0100	merge main: Merge made by the 'ort' strategy.
+6e15178839692d19767e021fc5da9720ffb75132 1a24a80fec6e2c5653c30f17e0afc59bec6bc262 herrabba <you@example.com> 1768470506 +0100	checkout: moving from greet to main
+1a24a80fec6e2c5653c30f17e0afc59bec6bc262 553a83df6b985e24973fd1d9a7ba6b0499d6f9cd herrabba <you@example.com> 1768470550 +0100	commit: up hello.sh in main
+553a83df6b985e24973fd1d9a7ba6b0499d6f9cd 6e15178839692d19767e021fc5da9720ffb75132 herrabba <you@example.com> 1768470622 +0100	checkout: moving from main to greet
+6e15178839692d19767e021fc5da9720ffb75132 97b34d216cc08135ff6c2228984991c59b3f4834 herrabba <you@example.com> 1768470892 +0100	commit (merge): resolve conflict
+97b34d216cc08135ff6c2228984991c59b3f4834 6e15178839692d19767e021fc5da9720ffb75132 herrabba <you@example.com> 1768471032 +0100	reset: moving to HEAD~1
+6e15178839692d19767e021fc5da9720ffb75132 c8d7eeb35982722716da32f27795362cf4f4569c herrabba <you@example.com> 1768471050 +0100	reset: moving to HEAD~1
+c8d7eeb35982722716da32f27795362cf4f4569c 553a83df6b985e24973fd1d9a7ba6b0499d6f9cd herrabba <you@example.com> 1768471753 +0100	rebase (start): checkout main
+553a83df6b985e24973fd1d9a7ba6b0499d6f9cd 117679d0d256f9d80c587220052adb58813d93bb herrabba <you@example.com> 1768471753 +0100	rebase (pick): new greet in greet branch
+117679d0d256f9d80c587220052adb58813d93bb 4bdba8ee0e7a8b9cfbd8aec70791d4bfb98edbd1 herrabba <you@example.com> 1768471919 +0100	rebase (continue): up hello.sh in greet branch
+4bdba8ee0e7a8b9cfbd8aec70791d4bfb98edbd1 968936c0d92b7194ffa72741b0bbd798a05c3cd7 herrabba <you@example.com> 1768471921 +0100	rebase (continue) (pick): updating Makefile in greet branch
+968936c0d92b7194ffa72741b0bbd798a05c3cd7 968936c0d92b7194ffa72741b0bbd798a05c3cd7 herrabba <you@example.com> 1768471921 +0100	rebase (continue) (finish): returning to refs/heads/greet
+968936c0d92b7194ffa72741b0bbd798a05c3cd7 553a83df6b985e24973fd1d9a7ba6b0499d6f9cd herrabba <you@example.com> 1768471955 +0100	checkout: moving from greet to main
+553a83df6b985e24973fd1d9a7ba6b0499d6f9cd 968936c0d92b7194ffa72741b0bbd798a05c3cd7 herrabba <you@example.com> 1768471967 +0100	checkout: moving from main to greet
+968936c0d92b7194ffa72741b0bbd798a05c3cd7 553a83df6b985e24973fd1d9a7ba6b0499d6f9cd herrabba <you@example.com> 1768471972 +0100	checkout: moving from greet to main
+553a83df6b985e24973fd1d9a7ba6b0499d6f9cd 968936c0d92b7194ffa72741b0bbd798a05c3cd7 herrabba <you@example.com> 1768471994 +0100	merge greet: Fast-forward
+968936c0d92b7194ffa72741b0bbd798a05c3cd7 f7c3f0c4bcc99d384f5fc3f98b2ba34c756e64a1 herrabba <you@example.com> 1768472144 +0100	commit: editing the README.md file to fetch the changes in the cloned repo
+f7c3f0c4bcc99d384f5fc3f98b2ba34c756e64a1 8f3970b523302f8905f5c21dc0810162902cdd51 herrabba <you@example.com> 1768473479 +0100	commit: editing the READMe.md file to push it in the shared remote
+8f3970b523302f8905f5c21dc0810162902cdd51 f7c3f0c4bcc99d384f5fc3f98b2ba34c756e64a1 herrabba <you@example.com> 1768473960 +0100	reset: moving to HEAD~1
+f7c3f0c4bcc99d384f5fc3f98b2ba34c756e64a1 97370af0b8c73f16c0a8ff7f2977e0c0623e7213 herrabba <you@example.com> 1768474105 +0100	commit: editing the READMe.md file to push it in the shared remote
